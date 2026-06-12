@@ -9,8 +9,6 @@ The analysis unifies data from three CSV files:
 * **`products.csv`** — Product catalog.
 * **`countries.csv`** — Geographic data (countries and regions).
 
----
-
 ## Core Steps Taken
 
 ### Data Cleaning & Wrangling
@@ -23,8 +21,6 @@ The analysis unifies data from three CSV files:
 * Analyzed revenue, profit, and order volumes by **Product Category**, **Geography**, and **Sales Channel** (Online vs. Offline).
 * Evaluated fulfillment efficiency (days between order and shipping) and its impact on profit.
 * Tracked sales dynamics by days of the week to identify product seasonality.
-
----
 
 ## Tech Stack
 * **Language:** Python
