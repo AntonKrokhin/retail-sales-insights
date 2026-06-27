@@ -1,4 +1,4 @@
-# Sales Analytics with Python
+# Retail Sales Insights
 
 ## Project Overview
 This project analyzes global sales data for a retail company operating. The main goal is to clean "dirty" raw data, compute key business metrics, and find actionable insights regarding sales performance, fulfillment speed, and seasonality.
